@@ -1,5 +1,12 @@
 Feed Reader Testing version 2.0 12/07/2015
 
+
+PROJECT LINK
+
+Check out the project by clicking the following link!
+
+http://aanyap.github.io/Feed-Reader-Testing/
+
 PROJECT DESCRIPTION
 --------------------
 A web-based application that reads RSS feeds is tested with Jasmine for various test cases.
